@@ -8,15 +8,5 @@
     "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/cs2-v1.0.0/VeroXCs2V1.0.0.exe",
     "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/cs2-v1.0.0",
     "requires_key": true
-  },
-  {
-    "id": "cs2test",
-    "name": "VeroX Cs2 Test",
-    "description": "VeroX Cs2 Test",
-    "image_url": "https://raw.githubusercontent.com/TsAGenesis/VeroX-AI/main/cs2test.png",
-    "version": "1.0.1",
-    "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/cs2test-v1.0.1/VeroXCs2testV1.0.1.exe",
-    "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/cs2test-v1.0.1",
-    "requires_key": true
   }
 ]
