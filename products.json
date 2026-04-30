@@ -1,0 +1,13 @@
+[
+    {
+      "id": "verox-cs2",
+      "name": "VeroX CS2",
+      "description": "AI-Aim Assist for Counter-Strike 2",
+      "image_url": "https://raw.githubusercontent.com/TsAGenesis/VeroX-AI/main/verox-cs2.png",
+      "version": "1.0.0",
+      "download_url":
+  "https://github.com/TsAGenesis/VeroX-AI/releases/download/cs2-v1.0.0/VeroXCs2.exe",
+      "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/cs2-v1.0.0",
+      "requires_key": true
+    }
+  ]
