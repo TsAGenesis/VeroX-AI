@@ -8,5 +8,15 @@
     "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/cs2-v1.0.2/VeroXVeroxCs2V1.0.2.exe",
     "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/cs2-v1.0.2",
     "requires_key": true
+  },
+  {
+    "id": "verox-roblox",
+    "name": "VeroX Roblox (Arsenal )",
+    "description": "AI Aimassist vor Roblox ( Arsenal )",
+    "image_url": "https://raw.githubusercontent.com/TsAGenesis/VeroX-AI/main/verox-roblox.png",
+    "version": "1.0.0",
+    "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/roblox-v1.0.0/VeroXVeroxRobloxV1.0.0.exe",
+    "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/roblox-v1.0.0",
+    "requires_key": true
   }
 ]
