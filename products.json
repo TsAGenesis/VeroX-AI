@@ -18,5 +18,15 @@
     "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/roblox-v1.0.1/VeroXVeroxRobloxV1.0.1.exe",
     "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/roblox-v1.0.1",
     "requires_key": true
+  },
+  {
+    "id": "apexlegends",
+    "name": "VeroX Apex Legend",
+    "description": "AI-Aim assist for Apex Legend",
+    "image_url": "https://raw.githubusercontent.com/TsAGenesis/VeroX-AI/main/apexlegends.png",
+    "version": "1.0.0",
+    "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/apexlegends-v1.0.0/VeroXApexlegendsV1.0.0.exe",
+    "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/apexlegends-v1.0.0",
+    "requires_key": true
   }
 ]
