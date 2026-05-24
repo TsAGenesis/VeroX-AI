@@ -28,5 +28,15 @@
     "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/apexlegends-v1.0.0/VeroXApexlegendsV1.0.0.exe",
     "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/apexlegends-v1.0.0",
     "requires_key": true
+  },
+  {
+    "id": "veroxfh6",
+    "name": "VeroX FH6 CarSnipe",
+    "description": "Tool for buying cars fast",
+    "image_url": "https://raw.githubusercontent.com/TsAGenesis/VeroX-AI/main/veroxfh6.png",
+    "version": "1.0.0",
+    "download_url": "https://github.com/TsAGenesis/VeroX-AI/releases/download/veroxfh6-v1.0.0/VeroXVeroxfh6V1.0.0.exe",
+    "release_url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/veroxfh6-v1.0.0",
+    "requires_key": false
   }
 ]
