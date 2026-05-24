@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-05-24",
+    "title": "Neu verfügbar: VeroX FH6 CarSnipe v1.0.0",
+    "body": "Tool for buying cars fast",
+    "url": "https://github.com/TsAGenesis/VeroX-AI/releases/tag/veroxfh6-v1.0.0",
+    "product_id": "veroxfh6"
+  },
+  {
     "date": "2026-05-07",
     "title": "Update",
     "body": "-Added Apex Legends \r\n-Added News Feed"
